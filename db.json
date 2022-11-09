@@ -1,0 +1,70 @@
+{
+  "productList": [
+    {
+      "productName": "Hp Elite Book G5 Laptop",
+      "catagory": "Electronics",
+      "date": "2022-11-06T21:00:00.000Z",
+      "price": 800,
+      "freshness": "Brand New",
+      "id": 1
+    },
+    {
+      "productName": "nike",
+      "catagory": "Fashion",
+      "date": "2022-11-08T21:00:00.000Z",
+      "price": 4567,
+      "freshness": "Second Hand",
+      "id": 2
+    },
+    {
+      "productName": "Hp Elite Book G5 Laptop",
+      "catagory": "Electronics",
+      "date": "2022-11-07T21:00:00.000Z",
+      "price": 6589,
+      "freshness": "Brand New",
+      "id": 3
+    },
+    {
+      "productName": "Hp Elite Book G5 Laptop",
+      "catagory": "Electronics",
+      "date": "2022-11-10T21:00:00.000Z",
+      "price": 567890,
+      "freshness": "Second Hand",
+      "id": 4
+    },
+    {
+      "productName": "Hp Elite Book G5 Laptop",
+      "catagory": "Fashion",
+      "date": "2022-11-07T21:00:00.000Z",
+      "price": 21345,
+      "freshness": "Brand New",
+      "id": 5
+    },
+    {
+      "productName": "nike",
+      "catagory": "Electronics",
+      "date": "2022-11-22T21:00:00.000Z",
+      "price": 45678,
+      "freshness": "Second Hand",
+      "id": 6
+    },
+    {
+      "productName": "f;';'eegvmvmf ",
+      "catagory": "Fashion",
+      "date": "2022-11-09T21:00:00.000Z",
+      "price": 566,
+      "freshness": "Brand New",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
